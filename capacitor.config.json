@@ -1,0 +1,7 @@
+{
+  "appId": "in.alethea.SelfcareNetworkTest",
+  "appName": "Selfcare Network Test",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh"
+}
